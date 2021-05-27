@@ -1,3 +1,5 @@
+#Author Karim Ulmann
+
 from tkinter import *
 from time import *
 import random
